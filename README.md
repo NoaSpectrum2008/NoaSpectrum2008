@@ -11,10 +11,20 @@
     * Programming
 ### How my PC looks
 #### This is what my PC kind of looks like!
-!["This is an alt text."](https://www.gamdias.com/img/case/ATLAS_M1/ATLAS_M1_IMG_KeyFeature3.png )
+!["This is my pc."](https://www.gamdias.com/img/case/ATLAS_M1/ATLAS_M1_IMG_KeyFeature3.png )
 ## :boom: My strengths and Weaknesses 
 | Strengths  | Weakenesses |
 | -----------|:-----------:|
-|    | right foo   |
-| left bar   | right bar   |
-| left baz   | right baz   |
+| Sports     | Patience    |
+| PC fixing  | Math        |
+| Eating     | Money       |
+## :v: My oneliner
+#### Studying is doubting your own knowledge :rocket:
+## :black_nib: My nationality and languages is speak
+* Dutch
+    * Mother tongue
+* English
+    * Pretty good
+* French
+    * average to good
+     
